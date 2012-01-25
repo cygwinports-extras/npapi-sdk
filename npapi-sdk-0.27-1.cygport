@@ -1,0 +1,3 @@
+GIT_URI="git://github.com/mgorny/npapi-sdk.git"
+GIT_TAG=${P}
+inherit git

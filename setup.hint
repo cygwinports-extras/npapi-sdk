@@ -1,0 +1,4 @@
+category: Devel
+requires:
+sdesc: "NPAPI headers"
+ldesc: "NPAPI headers"
